@@ -1,5 +1,4 @@
-![LinkyLinky screengrab](screenshot.jpg)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a59aaa25-babe-47f2-aa4c-8c12e8dc4333/deploy-status)](https://app.netlify.com/sites/mascbiztemplate/deploys)
 
 # Masc.Biz
 
