@@ -7,7 +7,7 @@ A little URL shortener of your own.
 
 ## Example
 
-[masc.biz](https://masc.biz)
+[urltemplate.masc.biz](https://urltemplate.masc.biz)
 
 
 ## Description
